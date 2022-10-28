@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\热心网友\source\repos\Project22\Project22\源.cpp(11,45): warning C4101: “type”: 未引用的局部变量
+C:\Users\热心网友\source\repos\Project22\Project22\源.cpp(11,40): warning C4101: “enda”: 未引用的局部变量
+  Project22.vcxproj -> C:\Users\热心网友\source\repos\Project22\Debug\Project22.exe
